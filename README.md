@@ -57,7 +57,6 @@ Sony NP-F750 batteries (or other sizes of batteries – NP-F750 is flush with th
 	1x ruthex - RX-1/4-20x12,7 – Quarter inch threaded insert<br>
 4x ISO 4762 M3x10 cylindrical head screw<br>
 <br>
-<br>
 **1x CinepiCamera_Straight_RoninPhoneholder.stl**<br>
 	1x ruthex - RX-1/4-20x12,7 – Quarter inch threaded insert<br>
 1x Tripod screw with cylinder head (or fitting alternatives)<br>
