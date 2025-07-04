@@ -16,13 +16,20 @@
     • Grip
     • Adaptor for a DJI ronin RS3 phoneholder
 
+## Printing Materials
+
+    • Use a material of your liking for most of the parts
+    • TPU of softness of at least 88A (Springs and Rubbercover need to be printed from TPU)
+
+
+
 ## BOM:
 **1x CinepiCamera_Straight_Mainbody.stl**<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;6x ruthex - RX-1/4-20x12,7 – Quarter inch threaded inserts<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;8x ruthex – RX-M3x5_7 – M3 threaded insert short<br>
 1x Adjustablemount_C_Springs_2 (assembly)<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;1x SE-SB8M-IMX585 (notes in assembly guide)<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;**3x Adjustablemount_C_Springs_TpuSpring.stl**<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;**3x Adjustablemount_C_Springs_TpuSpring.stl** !Caution print in 88A or similar TPU!<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;3x M2x10 flat head screw<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;**1x Adjustablemount_C_Springs_Rubbercover.stl** (notes in assembly guide)<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;**1x Adjustablemount_C_Springs_Gluebase.stl** (notes in assembly guide)<br>
@@ -65,7 +72,38 @@ Sony NP-F750 batteries (or other sizes of batteries – NP-F750 is flush with th
 
 ## Assembly guide
 
-In progress :=)
+## Converting the CS Mount on the IMX585 Board to C Mount
+
+![CS-Mount Soho](https://github.com/user-attachments/assets/b97c1c37-a97e-40ba-9476-59c61ec7b16d)
+![CS-Mount Soho Back](https://github.com/user-attachments/assets/ab3c3305-38e3-424e-b826-92cbec27d716)
+<br><br>
+>Remove the M2 screws from the back of the IMX585 PCB<br>
+>Preheat your 3D printer bed to the maximum level supported by it (without destroying your printer bed) - I used 120 °C<br>
+>Place down the aluminum mount face down onto the hotbed and leave it there for a few minutes to weaken the glue<br>
+>
+>Use a sharp prying tool to remove the aluminium mount from the pcb while still warm - Start prying on the edges - Dont use too much force!<br>
+<br>
+
+![Cs-CmountIMX585_5](https://github.com/user-attachments/assets/613d958d-5dbb-4cd8-9c25-6b4968bf080a)
+
+>Use a M2 screw (or tap) and form the threads on the **Adjustablemount_C_Springs_Gluebase.stl** (pictured red)
+>Use glue or silicone (neutral cure to not damage the aluminium?) and fix it to the removed CS mount
+<br>
+
+![Filterholder Exchangable](https://github.com/user-attachments/assets/420435e9-058b-40bf-b899-7798f06234d1)
+
+>Cut the IR Filterglass to size (18x15mm)
+>Glue it to the **Filterholder Exchangable.stl**
+
+![Cs-CmountIMX585_4](https://github.com/user-attachments/assets/988a0cd6-8c86-4557-a9ce-6c680f684ac8)
+
+>Use three **Adjustablemount_C_Springs_TpuSpring.stl** and M2x10 screws and fix the sensor to the mount<br>
+
+![Cs-CmountIMX585_2](https://github.com/user-attachments/assets/e05596cd-5226-4206-92dd-81cf4713ce1c)
+
+
+>Add the **Adjustablemount_C_Springs_Rubbercover.stl** by using either M2x8 screws or glueing it to the sensor board<br>
+>Use electrical tape or similar to remove light leaks after adjusting the mount<br>
 
 <br>
 <br>
