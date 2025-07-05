@@ -1,14 +1,22 @@
-# Compact 3D printed enclosure/sensormount for a barebones IMX585 Cinepi camera.
+# Compact 3D printed enclosure/sensormount for a barebones IMX585 [Cinepi](https://github.com/cinepi/cinepi-raw) camera.
 
 ![Everything](https://github.com/user-attachments/assets/079fca57-33fe-423a-bf2a-d652175576f4)
 
 ## Features:
+
     • Spring adjustable C-Mount
     • Raw recording Capabilities (4K 12Bit - 1/1.2 inch sensor)
     • Internal Storage on NVME 2280 SSD
     • NPF battery compatibility
     • Display via Smartphone
     • Lots of mounting points for addons
+
+## Software
+
+>	[Cinemate](https://github.com/Tiramisioux/cinemate/tree/main) by Tiramisioux - A simple gui built ontop of cinepi-raw for control via wifi or screen <br>
+>	 [Cinepi-raw](https://github.com/cinepi/cinepi-raw) by Schoolpost - Image capture and control interfaces - Makes raw recording possible
+>	<br> <br>
+>	Thanks for providing the software for us ♥
 
 ## Addons (for now):
 ![Addons](https://github.com/user-attachments/assets/83abdb2c-125f-46df-810e-0043b5c8d49c)
